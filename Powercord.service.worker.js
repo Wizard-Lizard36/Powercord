@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1787798766|23161150363';
+const CACHE_VERSION = '1787799081|23476907443';
 /** @type {string} */
 const CACHE_PREFIX = 'Power cord-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
