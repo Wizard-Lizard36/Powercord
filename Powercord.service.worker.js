@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1789955026|9695836798';
+const CACHE_VERSION = '1789955469|26790049';
 /** @type {string} */
 const CACHE_PREFIX = 'Powercord-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
